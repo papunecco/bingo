@@ -1,0 +1,9 @@
+Pablo Necco 100.000000
+Diego Necco 30.000000
+Pablo Necco 70.000000
+Pablo Necco 10.000000
+Juan Perez 70.000000
+Pablo Necco 90.000000
+Nico Perez 100.000000
+Pablo Necco 0.000000
+Pablo Necco 70.000000

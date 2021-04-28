@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1603600173 source:c:\users\papu necco\desktop\bingo\bingo tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1603589663 c:\users\papu necco\desktop\bingo\bingo tp\jugador.h
+
+1603594145 c:\users\papu necco\desktop\bingo\bingo tp\carton.h
+
+1603598486 source:c:\users\papu necco\desktop\bingo\bingo tp\bolillas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1603596895 source:c:\users\papu necco\desktop\bingo\bingo tp\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1603598130 source:c:\users\papu necco\desktop\bingo\bingo tp\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1603591228 c:\users\papu necco\desktop\bingo\bingo tp\bolillas.h
+
+1603627925 c:\users\papu necco\desktop\bingo\bingo tp\bucle.h
+
+1603626556 source:c:\users\papu necco\desktop\bingo\bingo tp\bucle.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1603598486 source:c:\users\papu necco\desktop\final por mi\bingo tp\bolillas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1603974141 c:\users\papu necco\desktop\final por mi\bingo tp\jugador.h
+
+1603974141 c:\users\papu necco\desktop\final por mi\bingo tp\carton.h
+
+1603973711 c:\users\papu necco\desktop\final por mi\bingo tp\bolillas.h
+
+1603973711 c:\users\papu necco\desktop\final por mi\bingo tp\bucle.h
+
+1603972456 source:c:\users\papu necco\desktop\final por mi\bingo tp\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1603931062 source:c:\users\papu necco\desktop\final por mi\bingo tp\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1603972645 source:c:\users\papu necco\desktop\final por mi\bingo tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1603930449 source:c:\users\papu necco\desktop\final por mi\bingo tp\bucle.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1603598486 source:c:\users\papu necco\desktop\tp bingo\bingo tp\bolillas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1603974141 c:\users\papu necco\desktop\tp bingo\bingo tp\jugador.h
+
+1603974141 c:\users\papu necco\desktop\tp bingo\bingo tp\carton.h
+
+1603973711 c:\users\papu necco\desktop\tp bingo\bingo tp\bolillas.h
+
+1603973711 c:\users\papu necco\desktop\tp bingo\bingo tp\bucle.h
+
+1603930449 source:c:\users\papu necco\desktop\tp bingo\bingo tp\bucle.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1603972456 source:c:\users\papu necco\desktop\tp bingo\bingo tp\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1604056358 source:c:\users\papu necco\desktop\tp bingo\bingo tp\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1604056454 source:c:\users\papu necco\desktop\tp bingo\bingo tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1603598486 source:c:\users\papu necco\desktop\unla\1er cuatrimestre\programacion\tp bingo\bingo tp\bolillas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1603974141 c:\users\papu necco\desktop\unla\1er cuatrimestre\programacion\tp bingo\bingo tp\jugador.h
+
+1603974141 c:\users\papu necco\desktop\unla\1er cuatrimestre\programacion\tp bingo\bingo tp\carton.h
+
+1603973711 c:\users\papu necco\desktop\unla\1er cuatrimestre\programacion\tp bingo\bingo tp\bolillas.h
+
+1603973711 c:\users\papu necco\desktop\unla\1er cuatrimestre\programacion\tp bingo\bingo tp\bucle.h
+
+1603930449 source:c:\users\papu necco\desktop\unla\1er cuatrimestre\programacion\tp bingo\bingo tp\bucle.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1603972456 source:c:\users\papu necco\desktop\unla\1er cuatrimestre\programacion\tp bingo\bingo tp\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1604056358 source:c:\users\papu necco\desktop\unla\1er cuatrimestre\programacion\tp bingo\bingo tp\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
+1604056454 source:c:\users\papu necco\desktop\unla\1er cuatrimestre\programacion\tp bingo\bingo tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"bolillas.h"
+	"bucle.h"
+
